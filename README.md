@@ -1,4 +1,4 @@
-[![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card.jpg?v=2)](https://lexmartinez.com)
+[![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card-v2.jpg?v=2)](https://lexmartinez.com)
 
 I work as Javascript freelance Dev. For more information about me, check out [lexmartinez.com](https://lexmartinez.com)
 
