@@ -1,8 +1,10 @@
-[![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card-v2.jpg?v=2)](https://lexmartinez.com)
+[![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card-v3.jpg?v=3)](https://lexmartinez.com)
 
-I work as Javascript freelance Dev. For more information about me, check out [lexmartinez.com](https://lexmartinez.com)
+I'm javascript developer based in Medellín, CO, with 9+ years of experience building web/mobile apps. 2. Currently working as freelance building awesome stuff.
 
 If you have a web or mobile app idea in mind, feel free to contact me. Currently I'm available for new exciting projects, I'll be glad to work with you!
+
+For more information about me, check out [lexmartinez.com](https://lexmartinez.com)
 
 <hr>
 
