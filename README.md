@@ -1,6 +1,6 @@
 [![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card-v3.jpg?v=3)](https://lexmartinez.com)
 
-I'm javascript developer based in Medellín, CO, with 9+ years of experience building web/mobile apps. 2. Currently working as freelance building awesome stuff.
+I'm javascript developer based in Medellín, CO, with 9+ years of experience building web/mobile apps. Currently working as freelance building awesome stuff.
 
 If you have a web or mobile app idea in mind, feel free to contact me. Currently I'm available for new exciting projects, I'll be glad to work with you!
 
