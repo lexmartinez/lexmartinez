@@ -4,7 +4,7 @@ Full-stack Javascript Developer based in Medellín, CO, with 10+ years of experi
 
 If you have a web or mobile app idea in mind, feel free to contact me. Currently I'm available for new exciting projects, I'll be glad to work with you!
 
-For more information about me, check out [lexmartinez.com](https://lexmartinez.com)
+For more information about me, check out [lexmartinez.dev](https://lexmartinez.dev)
 
 <hr>
 
