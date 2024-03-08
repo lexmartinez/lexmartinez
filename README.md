@@ -1,6 +1,6 @@
 [![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card-v3.jpg?v=3)](https://lexmartinez.com)
 
-Full-stack Javascript Developer based in Medellín, CO, with 10+ years of experience building web/mobile apps. For the last two years, I've been working as a Freelancer building awesome stuff.
+Full-stack Javascript Developer based in Manizales, CO, with 12+ years of experience building web/mobile apps. For the last two years, I've been working as a Freelancer building awesome stuff.
 
 If you have a web or mobile app idea in mind, feel free to contact me. Currently I'm available for new exciting projects, I'll be glad to work with you!
 
