@@ -1,6 +1,10 @@
 [![Hi. I'm Lex 👋🏻](https://github.com/lexmartinez/lexmartinez/raw/master/readme-card-v3.jpg?v=3)](https://lexmartinez.com)
 
-Full-stack Javascript Developer based in Manizales, CO, with 12+ years of experience building web/mobile apps. For the last two years, I've been working as a Freelancer building awesome stuff.
+A passionate full-stack JavaScript developer with over a decade of code-wrangling under my belt. From the moment I wrote my first “Hello, World!” script, I was hooked on the magic of coding, and I've been riding the programming wave ever since.
+
+Whether I'm crafting sleek interfaces with React, delicious apps with React Native or slinging code on the server-side with Node.js, I'm all about building stuff that not only works like a charm but also brings a smile to users'faces. Clean, efficient code? Check. Pixel-perfect designs? You betcha.
+
+When I'm not knee-deep in code, you'll probably find me chilling by the couch with a good book in hand or learning some new awesome stuff, and experimenting with it.
 
 If you have a web or mobile app idea in mind, feel free to contact me. Currently I'm available for new exciting projects, I'll be glad to work with you!
 
